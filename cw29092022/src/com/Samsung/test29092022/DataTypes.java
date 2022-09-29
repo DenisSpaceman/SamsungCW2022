@@ -12,6 +12,8 @@ public class DataTypes {
         double aDouble = 0.1;
         float aFloat = 0.1f;
 
+        boolean aBool = true;
+
         Scanner in = new Scanner(System.in);
 
         in.useLocale(Locale.US); // смена формата ввода данных
