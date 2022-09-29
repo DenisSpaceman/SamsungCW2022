@@ -16,7 +16,7 @@ public class DataTypes {
 
         Scanner in = new Scanner(System.in);
 
-        in.useLocale(Locale.US); // смена формата ввода данных
+        in.useLocale(Locale.US); // смена формата ввода данных, вместо 6,4 можно ввести 6.4 (фигня с double)
 
         System.out.println(i++); // 0
         System.out.println(i); // 1
@@ -24,5 +24,8 @@ public class DataTypes {
 
         System.out.println(i--); // 1
         System.out.println(i); // 0
+
+        i += 1; // i + 1
+        i -= 1; // i - 1 и т.д. с другими операциями
     }
 }
