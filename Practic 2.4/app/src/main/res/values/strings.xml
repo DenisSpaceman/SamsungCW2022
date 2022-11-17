@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Practic 2.4</string>
+    <string name="ncreate">Application CREATED</string>
+    <string name="nstart">Application STARTED</string>
+    <string name="nresume">Application RESUMED</string>
+    <string name="npause">Application PAUSED</string>
+    <string name="nstop">Application STOPED</string>
+    <string name="nrestart">Application RESTARTED</string>
+    <string name="ndestroy">Application DESTROYED</string>
+</resources>
